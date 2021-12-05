@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "name": "Wumpus Discord Theme",
+        "author": "Random_1s#9999",
+        "version": "1.0.0",
+        "updater": "https:\/\/github.com\/Random-1s\/Aliucord-Theme"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/851965695255773224\/917130889362804766\/download.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1644826,
+        "mention_highlight": 1309219886,
+        "background": 0,
+        "background_secondary": 1056964608,
+        "statusbar": 1056964608
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
