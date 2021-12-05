@@ -1,7 +1,21 @@
 {
-    "active_channel_color": -1644826,
-    "mention_highlight": -9459234,
-    "simple_bg_color": 1766560725,
-    "simple_bg_secondary_color": 4953045,
-    "statusbar_color": 1881304755
+    "manifest": {
+        "name": "Wumpus Discord Theme",
+        "author": "Random_1s#9999",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/851965695255773224\/917130889362804766\/download.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1644826,
+        "mention_highlight": -9459234,
+        "background": 1766560725,
+        "background_secondary": 4953045,
+        "statusbar": 1881304755
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
 }
