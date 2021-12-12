@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "name": "Squid Game Theme",
+        "author": "Random_1s#9999",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Random-1s\/Aliucord-Theme\/main\/Wumpus%20Discord%20Theme.json"
+    },
+    "background": {
+        "url":"https:\/\/media.discordapp.net\/attachments\/839516768304365609\/919483779335221268\/7054242.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -1644826,
+        "mention_highlight": 1309219886,
+        "background": 0,
+        "background_secondary": 1056964608,
+        "statusbar": 1056964608
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
